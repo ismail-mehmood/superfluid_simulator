@@ -38,8 +38,12 @@ With the basics out of the way, we can get to the true purpose of such simulatio
 -- insert extremely cool example of rainbow tracing --
 
 
+https://github.com/user-attachments/assets/a4f98112-0da5-48fd-b4d3-b4f4ad020191
+
+
 -- and maybe one actually useful example -- 
 
 
-https://github.com/user-attachments/assets/7e3bbe5c-2387-425b-858f-9730563ce265
+https://github.com/user-attachments/assets/c25b6b4f-58f5-4a1c-a89f-4d68ec4842db
+
 
