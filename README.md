@@ -24,7 +24,7 @@ When run, the project will (should) greet you with a friendly, if mildly ancient
 
 -- picture of GUI --
 
-Once you have loaded in the desired parameters, click `Create Simulation`. This will quite literally create a simulation object. When this is done, a button for running the simulation will appear, aptly labelled `Run Simulation`. Clicking this will close the dialog window, and status updates will appear in the terminal (more to alliviate my panic than for any genuine need). Once the program reaches the SSFT stage, a progress bar will appear giving an estimated time and percentage progess through the evolution routine. Depending on your selection of timestep width and total duration, this can take quite some time (more specifically, with reasonable arguments expect this to take anywhere between 30 seconds and 6 minutes). 
+Once you have loaded in the desired parameters, click `Create Sim button`. This will quite literally create a simulation object. When this is done, a button for running the simulation will appear, imaginatively labelled `Execute`. Clicking this will close the dialog window, and status updates will appear in the terminal (more to alliviate my panic than for any genuine need). Once the program reaches the SSFT stage, a progress bar will appear giving an estimated time and percentage progess through the evolution routine. Depending on your selection of timestep width and total duration, this can take quite some time (more specifically, with reasonable arguments expect this to take anywhere between 30 seconds and 6 minutes). 
 
 -- sc of terminal -- 
 
@@ -40,6 +40,14 @@ With the basics out of the way, we can get to the true purpose of such simulatio
 
 https://github.com/user-attachments/assets/a4f98112-0da5-48fd-b4d3-b4f4ad020191
 
+**Parameters:**
+Gridpoints: 256,
+Particle System Type: singleparticle,
+Trap: Harmonic Oscillator,
+Duration: 1 fms,
+Timesteps: 1000,
+Time period of harmonic oscillator: 3 fms,
+Amplitude of harmonic oscillator: 1 A.
 
 -- and maybe one actually useful example -- 
 
