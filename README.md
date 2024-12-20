@@ -20,7 +20,7 @@ In order to run this simulation, you will require Python 3. The version in which
 Included in the repo is a requirements.txt file, which includes all the dependencies that are required to run this project, as well as some extras which I experimented with whilst trialling different maths and animation libraries. You can download this file to the project directory and use the command `pip install -r /path/to/requirements.txt` to install all of these dependencies automatically. I've marked the optional modules with a comment in the file.
 
 ### Using the simulation 
-When run, the project will (should) greet you with a friendly, if mildly ancient GUI window asking a lot of difficult questions. I've included the paramaters needed for some of the cool examples below, but I advise you play around with the parameters (assuming you are the singular person who has made it this far).
+When run, the project will (should) greet you with a friendly, if mildly ancient GUI window asking a lot of difficult questions. I've included the parameters needed for some of the cool examples below, but I advise you play around with these (assuming you are the singular person who has made it this far).
 
 -- picture of GUI --
 
