@@ -38,7 +38,9 @@ With the basics out of the way, we can get to the true purpose of such simulatio
 -- insert extremely cool example of rainbow tracing --
 
 
-https://github.com/user-attachments/assets/a4f98112-0da5-48fd-b4d3-b4f4ad020191
+
+https://github.com/user-attachments/assets/883f63a9-8bc6-49a2-8f65-adb3f886a08a
+
 
 **Parameters:**
 Gridpoints: 256,
@@ -49,9 +51,16 @@ Timesteps: 1000,
 Time period of harmonic oscillator: 3 fms,
 Amplitude of harmonic oscillator: 1 A.
 
--- and maybe one actually useful example -- 
+-- and maybe one or two actually useful examples -- 
+
+
+https://github.com/user-attachments/assets/a4f98112-0da5-48fd-b4d3-b4f4ad020191
+
 
 
 https://github.com/user-attachments/assets/c25b6b4f-58f5-4a1c-a89f-4d68ec4842db
+
+
+
 
 
