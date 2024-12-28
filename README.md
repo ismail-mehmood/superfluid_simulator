@@ -1,5 +1,5 @@
 # superfluid_simulator
-Hello! Please note that this description is **unfinished**, please come back soon (unless you actually want to read my uncurated insanity).
+Hello! Please note that this description is **unfinished**, but should be understandable.
 
 An exploration into the mechanics of Helium-4 and replicating these properties in a real-time simulation for use in education. 
 
